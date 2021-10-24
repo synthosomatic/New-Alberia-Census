@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "New Alberia Census", "New Alberia Census.jsproj", "{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|ARM.ActiveCfg = Debug|ARM
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|ARM.Build.0 = Debug|ARM
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|ARM.Deploy.0 = Debug|ARM
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|ARM64.Build.0 = Debug|ARM64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|x64.ActiveCfg = Debug|x64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|x64.Build.0 = Debug|x64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|x64.Deploy.0 = Debug|x64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|x86.ActiveCfg = Debug|x86
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|x86.Build.0 = Debug|x86
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Debug|x86.Deploy.0 = Debug|x86
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|ARM.ActiveCfg = Release|ARM
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|ARM.Build.0 = Release|ARM
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|ARM.Deploy.0 = Release|ARM
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|ARM64.ActiveCfg = Release|ARM64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|ARM64.Build.0 = Release|ARM64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|ARM64.Deploy.0 = Release|ARM64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|x64.ActiveCfg = Release|x64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|x64.Build.0 = Release|x64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|x64.Deploy.0 = Release|x64
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|x86.ActiveCfg = Release|x86
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|x86.Build.0 = Release|x86
+		{AC5AA2B4-21AA-4B80-AD91-7A119AE6E690}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EED254B-F4CC-454E-B9A7-1A5091643CB0}
+	EndGlobalSection
+EndGlobal

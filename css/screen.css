@@ -1,0 +1,78 @@
+body {
+	font-family: "\30D2\30E9\30AE\30CE\89D2\30B4 Pro W3", "Hiragino Kaku Gothic Pro", "\30E1\30A4\30EA\30AA", "Meiryo", "Osaka", "\FF2D\FF33 \FF30\30B4\30B7\30C3\30AF", "MS P Gothic", sans-serif;
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+header, footer {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+header {
+	flex-direction: column;
+}
+
+#headerNav {
+	margin: auto;
+}
+
+#logInOutMessage {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 2;
+	overflow: auto;
+}
+
+content,
+subcontent {
+	overflow: auto;
+	padding: 1em;
+}
+
+subcontent {
+	margin: 0 auto;
+}
+
+content button {
+	text-align: left;
+}
+
+subcontent > div {
+	position: fixed;
+	left: 50%;
+	/* bring your own prefixes */
+	transform: translate(-50%, -0%);
+}
+
+	subcontent > div > table {
+	width: 100%;
+	border-collapse: collapse
+}
+
+th, td {
+	padding: 0.3125em;
+}
+
+#nodeHeader {
+	display: flex;
+	justify-content: space-between;
+}
+
+teamBuilderFrame {
+	display: flex;
+	flex-direction: column;
+}
+
+teamBuilderBody {
+	display: flex;
+	flex-direction: row;
+}

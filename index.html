@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<script src="https://www.gstatic.com/firebasejs/6.4.1/firebase-app.js"></script>
+		<script src="https://www.gstatic.com/firebasejs/6.4.1/firebase-auth.js"></script>
+		<script src="https://www.gstatic.com/firebasejs/6.4.1/firebase-firestore.js"></script>
+		<script>
+			// Initialize Firebase
+			var firebaseConfig = {
+				// ...
+				apiKey: "AIzaSyC4XwSfWKINC59fjQusX6ox_g-eWaUArIQ",
+				authDomain: "new-alberia-census.firebaseapp.com",
+				databaseURL: "https://new-alberia-census.firebaseio.com",
+				projectId: "new-alberia-census",
+				storageBucket: "new-alberia-census.appspot.com",
+				messagingSenderId: "377724389599",
+				appId: "1:377724389599:web:b79d509c26ded573"
+			}
+			firebase.initializeApp(firebaseConfig)
+		</script>
+		<script src="https://cdn.firebase.com/libs/firebaseui/3.5.2/firebaseui.js"></script>
+		<link
+			type="text/css"
+			rel="stylesheet"
+			href="https://cdn.firebase.com/libs/firebaseui/3.5.2/firebaseui.css"
+		/>
+		<script src="functions.js"></script>
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="https://cdn.jsdelivr.net/npm/normalize.css"
+			media="all"
+		/>
+		<link rel="stylesheet" type="text/css" href="css/main.css" media="screen" />
+	</head>
+
+	<body>
+		<header></header>
+
+		<main>
+			<content></content>
+			<subcontent>
+				<!-- <div id="firebaseui-auth-container"></div> -->
+				<!-- <div id="loader">Loading...</div> -->
+			</subcontent>
+		</main>
+
+		<footer>FOOTER SHIT</footer>
+	</body>
+</html>

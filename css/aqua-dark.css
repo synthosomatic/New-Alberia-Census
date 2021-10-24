@@ -1,0 +1,22 @@
+body {
+	background: #002233;
+	color: #fff;
+}
+
+a:link {
+	color: #4DE6E6;
+	text-decoration: none;
+	text-shadow: 1px 1px rgba(125, 125, 125, 0.5);
+}
+
+a:visited {
+	color: #7D7D7D;
+}
+
+a:hover {
+	color: #FFA8B4;
+}
+
+a:active {
+	color: #fff
+}
